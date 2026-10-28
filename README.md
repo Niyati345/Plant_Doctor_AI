@@ -185,7 +185,7 @@ Plant_Doctor_AI/
 
 ## 👨‍💻 Author
 
-**Nitin Kumar**
-* GitHub: [@nitink-22](https://github.com/nitink-22)
-* Project Repository: [nitink-22/Plant_Doctor_AI](https://github.com/nitink-22/Plant_Doctor_AI)
+**Niyati Dhar**
+* GitHub: [@Niyati-345]((https://github.com/Niyati345))
+* Project Repository: [Niyati-345/Plant_Doctor_AI](https://github.com/Niyati345/Plant_Doctor_A)
 * Live Application: [Plant Doctor AI on Streamlit](https://nitink-22-plant-doctor-ai-app-brvouq.streamlit.app/)
